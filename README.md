@@ -20,6 +20,10 @@ conda activate langflow-py39
 ```
 pip install langflow
 ```
+   or for local
+```
+pip install langflow[local]
+```
 
 4. Download & install the Ollama windows installer from [Ollama](https://github.com/ollama/ollama)
 
@@ -30,5 +34,16 @@ pip install langflow
 http://localhost:11434
 ```
 
-7. 
+7. Run langflow
+```
+langflow Run
+```
+You shoud see somethin like ( XXX is used as an exaple but yours will have numbers ) blick on te urn to run in the browser ``` ctrl + mouse click ```
+```
+ Welcome to ⛓ Langflow                             
+                                                   
+ Access http://xxx.0.0.1:xxxx                      
+ Collaborate, and contribute at our GitHub Repo 🚀
+```
 
+8. Have fun 🎈🎉😁
