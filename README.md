@@ -23,8 +23,12 @@ pip install langflow
 
 4. Download & install the Ollama windows installer from [Ollama](https://github.com/ollama/ollama)
 
-5. open in browser 
+5. Open Ollama windows application
+
+6. open url in browser you should see ``` Ollama is running ```
 ```
-http://localhost:11434/api
+http://localhost:11434
 ```
+
+7. 
 
